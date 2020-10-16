@@ -2,4 +2,4 @@
 
 This is a voice recognition app. 
 
-! To make this work you need a microphone !
+Microphone needs to be turned on and to be allowed in browser.
